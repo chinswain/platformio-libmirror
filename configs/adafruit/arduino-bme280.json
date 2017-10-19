@@ -1,6 +1,6 @@
 {
   "name": "Adafruit BME280 Library",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "keywords": "sensor, temp, humidity, pressure",
   "description": "Arduino library for BME280 humidity and pressure sensors",
   "repository":
